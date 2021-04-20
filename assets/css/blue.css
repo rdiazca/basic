@@ -1,0 +1,6 @@
+/* Effective stylesheet produced by snapshot save */
+.icheckbox_square-blue, .iradio_square-blue { display: inline-block; vertical-align: middle; margin: 0px; padding: 0px; width: 22px; height: 22px; background: rgba(0, 0, 0, 0) url("blue.png") no-repeat scroll 0% 0%; border: medium none; cursor: pointer; }
+.icheckbox_square-blue { background-position: 0px 0px; }
+@media not all, not all, not all, not all {
+  .icheckbox_square-blue, .iradio_square-blue { background-image: url("urn:not-loaded:file:///blue@2x.png"); background-size: 240px 24px; }
+}
